@@ -14,7 +14,7 @@ _Glassmorphism Design • Multiple Themes • Cyber Aesthetics_
 
 <br />
 
-[![Try It Out](https://img.shields.io/badge/🚀_Launch_App-Click_Here-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](index.html)
+[![Try It Out](https://img.shields.io/badge/🚀_Launch_App-Click_Here-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://usaihack.github.io/Caesar-GUI/)
 
 </div>
 
@@ -74,7 +74,7 @@ npx serve .
 
 <div align="center">
 
-Made with ❤️ & ☕ by **Code Crafter**
+Made with ❤️ & ☕ by **Usman Said**
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
